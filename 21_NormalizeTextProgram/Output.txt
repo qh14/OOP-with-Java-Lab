@@ -1,0 +1,10 @@
+
+Case 1: Only one space between words and case 4 
+Case 2: Only one space after comma, dot and colon. First character of word after dot is in uppercase and other.
+Words are in lower case. 
+Case 3: There are no spaces before and after sentence or word phrases in quotes “ this is a test file ”. 
+Case 4: First character of word in first line is in uppercase. 
+Case 5: There are no blank line between lines. 
+Case 6: There are no space between comma, or dot. And word in front of it.
+Case 7: Must have dot at the end of text.
+Extend case: There are no spaces before and after sentence or word phrases in ( there are no spaces before and after sentence or word phrases in ). 
